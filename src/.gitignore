@@ -1,1 +1,5 @@
 .env
+chat_history.db
+README.md
+__pycache__/
+*.pyc
