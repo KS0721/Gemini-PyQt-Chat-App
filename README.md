@@ -60,12 +60,3 @@
 
 > `gemini.py` 파일이 있는 위치에서 다음 명령어를 실행합니다.
 > `python gemini.py`
-
----
-
-## 🖼️ 실행 화면 (Screenshots)
-
-[여기에 프로젝트의 실행 화면 스크린샷이나 GIF 이미지를 첨부하세요.]
-
-```markdown
-![챗봇 실행 화면 예시](assets/screenshot.png)
