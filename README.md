@@ -65,5 +65,3 @@ pip install -r requirements.txt
 
 > `gemini.py` 파일이 있는 위치에서 다음 명령어를 실행합니다.
 > `python gemini.py`
-
----
